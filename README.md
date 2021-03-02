@@ -4,7 +4,7 @@
 
 ### Teacher in Charge of Digital Technologies<br>@ Waimea College, Richmond NZ
 
-Stumbling through lesson after lesson, trying to wrangle code out of young brains (semi-successfully).
+Stumbling through lesson after lesson, trying to wrangle code out of young brains.
 
 Jack-of-all-code, master of none: HTML, CSS, Javascript, PHP, MySQL, Java, Python, Scratch, etc.
 
