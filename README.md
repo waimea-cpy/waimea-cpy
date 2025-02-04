@@ -8,4 +8,3 @@ Also have some [Gists here](https://gist.github.com/waimea-cpy)
 
 Stumbling through lessons, trying to wrangle code out of young brains.
 
-HTML, CSS, JS and Python are my staple diet, but currently enjoying Kotlin, HTMX and getting to know PHPv8.
